@@ -1,4 +1,8 @@
 pooja.py
 amol.csv
 amol
+<<<<<<< HEAD
 staticfile/pooja.css
+=======
+pooja.css
+>>>>>>> f1d7d5e (update gitignore)
