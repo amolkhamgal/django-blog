@@ -1,2 +1,3 @@
-a,b=10,20
-print(a+b)
+def m1():
+    print("My name is amol khamgal")
+m1()    
